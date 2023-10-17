@@ -1,0 +1,9 @@
+terrain : 0, 0, 50, 40
+salles 2
+1 : 30, 15, 43, 32
+0 : 10, 10, 40, 23
+poteaux 2
+43, 32, 0, 10
+30, 32, 0, 10
+longueur_poteaux : 20
+economie_poteaux : 10
